@@ -1,0 +1,12 @@
+---
+:id: 121784940
+:submitters:
+- :name: Anthony Bell
+  :email: abell11@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-14 22:47:49.384299000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-14 15:47:49.384299000 Z
+:status: processed
+:score: 100.0
